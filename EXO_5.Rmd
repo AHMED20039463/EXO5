@@ -1,0 +1,36 @@
+---
+title: "Lettre de motivation"
+author: "Ahmadou Niass"
+date: "2024-03-12"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+M. Ahmadou Niass                                                                              Dakar, Le 12 Mars 2024
+
+2914 HLM5 Dakar
+
++221 33 941 36 05 / 77 798 36 96
+
+ahmadouniass2\@gmail.com
+
+                                                                                                                ANSD
+
+                                                                                          Colobane Cerf-Volant Rocade Bel-Air
+
+                                                                                          A l’attention du Directeur Général
+
+## Objet : Demande de stage
+
+Monsieur le Directeur Général,
+
+       Etudiante en 2^e^  année de formation en filière ISEP, je me permets de vous transmettre cette correspondance pour solliciter de votre part l’obtention d’un stage d’immersion de 8 semaines dans la période juillet-septembre au sein des services dont vous avez la charge.
+
+       Je dois vous signaler Monsieur le Directeur que dans le cadre de notre formation nous devons effectuer un stage obligatoire dans une structure relevant du domaine de la statistique. C’est cela qui motive ma demande. En outre, ce stage me permettra de produire un rapport dont la note de soutenance est prise en compte dans l’évaluation finale. Par ailleurs il sera une occasion pour moi de mettre en pratique l’ensemble des connaissances théoriques acquises à l’école, de mieux comprendre la communication dans l’entreprise et de m’exercer au travail en groupe dans vos équipes.
+
+       Tout en espérant que ma demande sera traitée avec diligence et que votre réponse sera favorable, je vous prie de bien vouloir accepter, Monsieur le Directeur Général, l’expression de ma profonde gratitude.
+
+                                                                                                       Ahmadou Niass
