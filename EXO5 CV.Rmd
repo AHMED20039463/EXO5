@@ -1,0 +1,63 @@
+---
+title: "CV"
+author: "Ahmadou Niass"
+date: "2024-03-13"
+output: pdf_document
+---
+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                                                                                         |
++:========================================================================================================================================================================================================+
+|                                                                                                                                                                                                         |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/_DSC4568-05.JPG){width="306"}                                                                                                                                                                |
+|                                                                                                                                                                                                         |
+| **Ahmadou NIASS**                                                                                                                                                                                       |
+|                                                                                                                                                                                                         |
+| Enthousiaste étudiant en ingénierie statistique économique à l'ENSAE (École Nationale de la Statistique et de l'Analyse Économique), je suis passionné par l'informatique de manière générale           |
+|                                                                                                                                                                                                         |
+| **Formation :**                                                                                                                                                                                         |
+|                                                                                                                                                                                                         |
+| -   Actuellement en cours de spécialisation en ingénierie statistique économique à l'ENSAE,.                                                                                                            |
+|                                                                                                                                                                                                         |
+| -   Ancien élève du lycée scientifique d'excellence de Diourbel où j'ai obtenu un baccalauréat S1 mention Très Bien                                                                                     |
+|                                                                                                                                                                                                         |
+| **Compétences Techniques :**                                                                                                                                                                            |
+|                                                                                                                                                                                                         |
+| -   Pack Office : Excel, Word,                                                                                                                                                                          |
+|                                                                                                                                                                                                         |
+| ```{=html}                                                                                                                                                                                              |
+| <!-- -->                                                                                                                                                                                                |
+| ```                                                                                                                                                                                                     |
+| -   Pratique d'outils statistiques : Excel, VBA, Python, SPSS, Stata                                                                                                                                    |
+|                                                                                                                                                                                                         |
+| **Qualités Personnelles :**                                                                                                                                                                             |
+|                                                                                                                                                                                                         |
+| -   Esprit analytique développé et capacité à résoudre des problèmes complexes.                                                                                                                         |
+|                                                                                                                                                                                                         |
+| -   Forte aptitude à travailler en équipe, acquise au cours de projets académiques collaboratifs.l                                                                                                      |
+|                                                                                                                                                                                                         |
+| **Loisirs**                                                                                                                                                                                             |
+|                                                                                                                                                                                                         |
+| -   Karaté : Ceinture Marron, Double champion de la région de Saint Louis en Kata (2018-2019), Vice champion du championnat national scolaire (2018), Ancien membre de l'équipe nationale jeune de Kata |
+|                                                                                                                                                                                                         |
+| -   Football                                                                                                                                                                                            |
+|                                                                                                                                                                                                         |
+| -   Echecs                                                                                                                                                                                              |
+|                                                                                                                                                                                                         |
+| **Langues**                                                                                                                                                                                             |
+|                                                                                                                                                                                                         |
+| -   Wolof : Parlé couramment                                                                                                                                                                            |
+|                                                                                                                                                                                                         |
+| -   Francais: Parlé et écrit couramment                                                                                                                                                                 |
+|                                                                                                                                                                                                         |
+| -   Anglais: Parlé et écrit couramment                                                                                                                                                                  |
+|                                                                                                                                                                                                         |
+| **Contacts**                                                                                                                                                                                            |
+|                                                                                                                                                                                                         |
+| -   Telephone : 77 798 36 96 / 70 956 05 21                                                                                                                                                             |
+|                                                                                                                                                                                                         |
+| -   E-mail: ahmadouniass2\@gmail.com                                                                                                                                                                    |
+|                                                                                                                                                                                                         |
+| -   Github : <https://github.com/AHMED20039463>                                                                                                                                                         |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
